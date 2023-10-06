@@ -1,3 +1,3 @@
 export const enviroment = {
-  baseUrl: 'http://localhost:3000'
+  baseUrl: 'https://nest-auth-backend-gpp.up.railway.app'
 }
